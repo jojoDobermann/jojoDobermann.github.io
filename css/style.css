@@ -1,0 +1,18 @@
+td{
+  border:5px solid blue;
+  width:100px;
+  text-align:center; 
+}
+
+div{
+  border:2px solid blue;
+  width:165px;
+  margin: ;  
+}
+.Table1{
+  border:2px solid black;
+  margin:right;
+  top:100px;
+  position:absolute;
+  float:right;
+}
